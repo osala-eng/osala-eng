@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing IoT systems
 - 🌱 I’m currently learning mobile application testing
 - 💞️ I’m looking to collaborate on any project
-- 📫 You can reach me through <a href="osala@jsoan.com">EMAIL</a>
+- 📫 You can reach me through <a href="mailto:osala@jsoan.com">EMAIL</a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=osala-eng&theme=highcontrast&show_icons=true&count_private=true)
