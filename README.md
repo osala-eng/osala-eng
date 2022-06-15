@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me through <a href="osala@jsoan.com">EMAIL</a>
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=osala-eng&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=osala-eng)
+
 <!---
 osala-eng/osala-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
